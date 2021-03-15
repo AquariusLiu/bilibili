@@ -1,1 +1,1 @@
-# bilibili
+https://space.bilibili.com/{mid}
